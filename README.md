@@ -1,11 +1,14 @@
 Cluedo
 ===========
-
 2D based game of Cluedo without a graphical user interface (Checkout its GUI counterpart among my repositories)
 
-Controls: Will be prompted during the progression of the game
+Controls
+===========
+Will be prompted during the progression of the game
 
-Requires Java 7. <br />
+Run
+===========
+Requires Java 7. <br /><br />
 Locate CluedoTextExe.jar through command prompt and type
  > java -jar CluedoTextExe.jar
  
